@@ -1,5 +1,3 @@
-
-
 #pragma once
 
 #include <iostream>
@@ -8,6 +6,15 @@
 #include <algorithm>
 #include <functional>
 #include <tuple>
+
+#include <math.h>
+#include <stdio.h>
+#include <stdint.h>
+#include <stdlib.h>
+#include <time.h>
+#include <queue>
+#include <set>
+#include <array>
 
 #include <string>
 #include <sstream>
@@ -18,8 +25,8 @@
 #include <chrono>
 #include <fstream>
 #include <bitset>
-#include <filesystem>
-
-
-#include <thread>
-#include <mutex>
+using namespace std;
+int main()
+{
+	cout << "yes";
+}
